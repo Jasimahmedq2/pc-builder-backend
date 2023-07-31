@@ -391,7 +391,7 @@ node-bin-setup@^1.0.0:
 
 node@^18.14.0:
   version "18.14.0"
-  resolved "https://registry.npmjs.org/node/-/node-18.14.0.tgz"
+  resolved "https://registry.yarnpkg.com/node/-/node-18.14.0.tgz#044b4ca0dc8530a5a30909c0b63f8a5811b134bc"
   integrity sha512-H1TUHf7/SsJdgb+b5Y20f986pu+KItqQ8s6oV+QkUCWPn7v+kicZM8ewldtjWB3XrD3+zTW8DFLzDNjFg/nl7A==
   dependencies:
     node-bin-setup "^1.0.0"
@@ -568,7 +568,7 @@ type-is@~1.6.18:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
-unpipe@~1.0.0, unpipe@1.0.0:
+unpipe@1.0.0, unpipe@~1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/unpipe/-/unpipe-1.0.0.tgz"
   integrity sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==
